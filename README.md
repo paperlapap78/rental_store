@@ -1,4 +1,11 @@
-# States
+# Video Store - State machine
+
+A video store state machine implementation
+
+Elixir 
+OTP
+
+## States
 
 
 ┌────────────┐   rent      ┌──────────┐  lose ┌───────┐
@@ -13,8 +20,6 @@
 
 
 From Book: "Seven More Languages in Seven Weeks" - 
-
-
 
 ## Installation
 
